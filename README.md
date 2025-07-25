@@ -12,3 +12,4 @@ short_description: 'A simple Hand Digit Recognizer web app using a CNN model '
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+"# Realtime-handwritten-digit-Recognition-using-CNN" 
