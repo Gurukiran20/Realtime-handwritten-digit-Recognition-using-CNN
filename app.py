@@ -129,7 +129,7 @@ def predict_digit(image):
 
     return f" Predicted Digit: {predicted_digit} (Confidence: {confidence:.2f})"
 
-!pip install gradio --quiet
+'!pip install gradio --quiet'
 
 import gradio as gr
 import numpy as np
