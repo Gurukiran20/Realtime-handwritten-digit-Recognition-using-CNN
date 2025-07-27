@@ -1,9 +1,11 @@
 # Realtime Handwritten Digit Recognition using CNN 📝
 
 **Figure 1: User interface of the Handwritten Digit Recognition app built using Gradio.**
+
 <img width="1706" height="808" alt="image" src="https://github.com/user-attachments/assets/aa9d6d74-d4aa-40ae-90a6-b13879c48846" />
 
 **Figure 2: Digit drawn on paper and recognized accurately by the model.**
+
 <img width="1626" height="853" alt="Screenshot 2025-07-25 155533" src="https://github.com/user-attachments/assets/d64102d8-86fa-4b5f-8f75-f7fac8d40b4e" />
 
 This is real-time handwritten digit recognition web Application using a Convolutional Neural Network (CNN). Draw a digit on paper, capture it via webcam or upload an image, and get predictions instantly. Deployed using Gradio on Hugging Face Spaces.
